@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Karl Tristan Romero</h1>
+<h1 align="center">Hi 👋, I'm <b>Karl Tristan Romero</b></h1>
 <h3 align="center">A computer engineering student at the Polytechnic University of the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karltristanromero&label=Profile%20views&color=0e75b6&style=flat" alt="karltristanromero" /> </p>
 
 
-- 🌱 I’m currently learning **Python, SQL, and Git**
+- 🌱 I’m currently learning **Python**, **SQL**, and **Git**
 
 - 📫 How to reach me **romerokarl434@gmail.com**
 
